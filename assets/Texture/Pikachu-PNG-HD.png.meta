@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c437a101-9d07-4eba-b14d-46845a21f6f4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Pikachu-PNG-HD": {
+      "ver": "1.0.3",
+      "uuid": "4310727c-4ae1-4d0f-8386-2984c78c9893",
+      "rawTextureUuid": "c437a101-9d07-4eba-b14d-46845a21f6f4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 8,
+      "trimY": 8,
+      "width": 1584,
+      "height": 1420,
+      "rawWidth": 1600,
+      "rawHeight": 1436,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

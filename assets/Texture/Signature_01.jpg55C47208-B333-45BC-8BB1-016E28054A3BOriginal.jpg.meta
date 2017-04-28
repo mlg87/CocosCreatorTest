@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f78f385d-d7fd-49b6-8a87-9b4e9a797f3c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Signature_01.jpg55C47208-B333-45BC-8BB1-016E28054A3BOriginal": {
+      "ver": "1.0.3",
+      "uuid": "331d664a-f9e4-4b01-a96c-8d83055102cd",
+      "rawTextureUuid": "f78f385d-d7fd-49b6-8a87-9b4e9a797f3c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1480,
+      "height": 800,
+      "rawWidth": 1480,
+      "rawHeight": 800,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "7690d591-9da2-4cbc-be14-9933415c69f5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Manchester_United_logo": {
+      "ver": "1.0.3",
+      "uuid": "7f885819-d46d-4d84-b7de-79b1a43c5c99",
+      "rawTextureUuid": "7690d591-9da2-4cbc-be14-9933415c69f5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 10,
+      "trimY": 8,
+      "width": 380,
+      "height": 384,
+      "rawWidth": 400,
+      "rawHeight": 400,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
